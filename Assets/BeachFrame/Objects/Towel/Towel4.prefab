@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9205313082226606127
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 314856544102875521}
+  m_Layer: 0
+  m_Name: Towel4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &314856544102875521
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9205313082226606127}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.04274481, z: -0, w: 0.9990861}
+  m_LocalPosition: {x: -9.8069935, y: 1.0417, z: -5.3444276}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6770626166654074025}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 4.9, z: 0}
+--- !u!1001 &6520264331838102338
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 314856544102875521}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 83.07104
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 41.535526
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 41.53553
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.38499546
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.37415528
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6000066
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5931092
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -91.041
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -205.065
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cbad3069045e2c344b20a9ae5fa17c4e, type: 2}
+    - target: {fileID: 919132149155446097, guid: cffb63ea51b27834f87d583debec22ad,
+        type: 3}
+      propertyPath: m_Name
+      value: Towel2 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cffb63ea51b27834f87d583debec22ad, type: 3}
+--- !u!4 &6770626166654074025 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: cffb63ea51b27834f87d583debec22ad,
+    type: 3}
+  m_PrefabInstance: {fileID: 6520264331838102338}
+  m_PrefabAsset: {fileID: 0}
